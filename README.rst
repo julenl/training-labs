@@ -36,6 +36,9 @@ Clone the training-labs repository::
 
 What the script installs
 ------------------------
+After cloing the repository, run the osbash script, by:
+cd training-labs/labs/osbash/
+./osbash.sh -g gui -b cluster
 
 Running this will automatically spin up 3 virtual machines in VirtualBox/KVM:
 
